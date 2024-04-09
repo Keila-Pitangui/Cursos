@@ -1,2 +1,2 @@
-# Curso
-Repositório criado  exclusivamente para armazenar os conteúdos estudados.
+# Cursos
+Repositório criado exclusivamente para armazenar os conteúdos estudados.
