@@ -1,0 +1,256 @@
+Curso JAVA Completo - Professor Nelio Alves 
+
+Fundamentos
+	Lógica de programação 
+		- Estrutura de Dados 
+		- Programação Orientada a Objetos
+		- Banco de Dados 
+		- Análise & Design de Sistemas 
+		
+Comercial
+	- Back end
+	- Web
+	- Mobile
+	- Desktop
+	
+Pilares do Curso
+	- OOP
+	- JAVA
+	- teoria + Prática: Exercícios reias 
+	
+Percurso de fromação 
+	1. Lógica de programação (Iniciantes)
+		- Conceitos de programação
+		- introdução à linguagem Java 
+		- Estrutura sequencial 
+		- Estrutura condicional 
+		- Estrutura repetitivas
+		
+	2.  Java e programação orientada a objetos
+		- Introdução a OOP 
+		- Construtores, palavras this, sobrecarga, encapsulamento
+		- Comportamento de memória, arrays, lista
+		- Tópicos especiais em Java 
+		- Nivelamento sobre Git e Github
+		- Enumeração, composição
+		- Henrança e polimorfismo 
+		- Tratamento de exceções
+		
+	3. Projeto
+		- Composição de objetos, herança, coleções, etc.
+		- Desenvolvimento em camadas 
+		- Padrões de projetos
+		
+	4. Java e OOP
+		- Trabalhando com arquivos
+		- Interaces
+		- Generics, Set, Map
+		- Programação funcional e expressões lambda
+		- Nivelamento Álgebra Relacional, SQL, MySQL
+		- Acesso a banco de dados com JDBC
+		- Interface  Gráfica com JavaFX
+		
+	5.  Projeto: Aplicação Desktop com Javafx e banco de dados MySQL com JDBC
+		- Padrão MVC - Model View Controller
+		- Padrão Camadas 
+		- FXML, SceneBuilder
+		- Tratamento de eventos de UI
+		- CRUD completo
+		- Padrões de projetos
+		
+	6.  Projeto: Web services com Spring Boot e JPA/Hibernate
+		- Nivelamento ORM com JPA/Hibernate
+		- Padrão Camadas
+		- Web HTTP
+		- REST / web service 
+		- Modelo de Domínio complexo
+		- Maven 
+		- Banco de dados H2
+		- Spring Data JPA
+		- CRUD completo
+		- Tratamento de exceções
+		
+	7. Projeto:  Web services com Spring Boot e NoSQL (MongoDB)
+		- Nivelamento NoSQL e MongoDB
+		- Modelo de domínio: Agregado e denormalização
+		- Padrão DTO
+		- Spring Data MongoDB
+		- CRUD completo 
+		- Tratamento de exceções
+
+---------------------------------------------------------------------------
+* Introdução
+
+- Algoritmo, Automação, Programa de Computador
+
+	1. Algoritmo: Sequência finita de instruções para se resolver um problema.
+	Ex:
+		Problema: Lavar roupa suja
+			
+			1. Colocar a roupa em um recipiente
+			2. Colocar um pouco de sabão e amaciante
+			3. Encher de água
+			4. Mexer tudo até dissolver todo o sabão 
+			5. Deixar de molo por 20 minutos
+			6. Esfregar a roupa
+			7. Enxaguar
+			8. Torcer
+			
+	2. Automação: Consite em utilizar máquinas para executar o procedimento desejado de forma automática ou semiautomática.
+	Ex:
+		uma máquina de lavar roupas que execua a parte da lavagem (do iten 3 ao 8).
+	
+	3. Programa de Computador: Programas de computador são algoritmos executados pelo computador (em linhas gerais).
+	
+	Conclusão: O computador é uma máquina que automatiza  a execução de algoritmos. 
+	Qualquer algoritmo? Não, apenas algoritmos computacionais.
+		- Processamento de dados
+		- Cálculos
+	
+		- Hardware: parte física
+		- Software: parte lógica
+		
+* O que é preciso para se fazer um programa de computador?
+	1. Uma linguagem de programação: regras léxicas e sintáticas para se escrever o programa.
+	2. Uma IDE: software para editar e testar o programa
+	3. Um compilador: software para transformar o código fonte em código objeto.
+	4..  Um gerador de código ou máquina virtual: software que permite que o programa seja executado.		
+		
+* Linguagem de programação
+	É um conjunto de regras léxicas (ortografia) e sintáticas (gramática) para se escrever programas.
+	Léxicas: Diz respeito á correção das palavras "isoladas" (orotgrafia).
+	Ex: a palavra "Cachorro" esta correta, mas se fosse escrita "caxorro" estaria errada.
+	
+	Sintáticas: Diz respeito à correção das sentenças (gramática).
+	Ex: a sentença "O cachorro está com fome" esta correta, mas se fosse escrita "A cachorro está com fome" estaria errada.
+	
+- Exemplo de um programa:
+ 	suponha um programa que solicita do usuário dois números e depois mostra a média aritmética deles. 
+ 	
+ 	* Solução em linguagem Java
+ 		
+ 		import java.util.Scanner;
+ 		public class Main{
+ 			public static void main(String[] args){
+ 				Scanner sc = new Scanner(System.in);
+ 				double x, y, media;
+ 				
+ 				System.out.print("Digite o primeiro numero: ");
+ 				x = sc.nextDouble();
+ 				System.out.print("Digite o segundo numero: ");
+ 				y = sc.nextDouble();
+ 				media = (x + y) / 2.0;
+ 				System.out.print(" Media = " + media);
+ 				sc.close();
+ 			}
+ 		}
+ -------------------------------------------------------------------------
+ 7. IDE - Ambiente Integrado de Desenvolvimento
+ 	é um conjunto de softwares utilizado para a construção de programas.
+ 	Ex: 
+ 		- C/C++: Code Blocks 
+ 		- Java: Eclipse, NetBeans
+ 		- C#: Microsoft Visual studio
+ 		
+ 	Funcionalidades de uma IDE
+ 		- Edição de código fonte (endereçament, autocompletar, destaque de palavras, etc.)
+ 		- Depuração e testes
+ 		- Construção do produto final (build)
+ 		- Sugestão de modelos (templates)
+ 		- Auxiliar em várias tarefas do seu projeto.
+ 	
+ -------------------------------------------------------------------------
+ 8. Compilação, interpretação, código fonte, código objeto e máquina vitual.		
+ 		
+ 		* Compilador: transforma o código fonte em código objeto.
+ 		* máquina virtual ou gerador de código: permite o código ser executado.
+ 		
+  * Código fonte: é aquele escrito pelo programador em liguagem de programação, porém nao é entendido pela máquina, esse processo de entendimento é feito pela compilação.
+  
+  *Compilação
+  
+  			    Compilador 					Gerador de código
+  Código fonte ->  Compilação -> Código Objeto -> Código executável
+  		   análise léxica + sintática					geração de código		
+  			
+  * Interpretação
+  
+				Interpretador  
+	Código fonte ->   interpretação -> Execução
+     				análise léxica + sintática+ geração de código -> SOB DEMANDA
+     				
+  * Abordagem Híbrida (adotada pelo Java e C#)
+  				compilador		cód. objeto			máquina virtual
+  	Código fonte -> precompilação -> Bytecode -> interpretação -> execução 
+  				análise léxica + sintática			geração de código - SOB DEMANDA
+  				
+  JAVA utiliza a JVM (java virtual machine)
+  C# utiliza a Microsoft .NET Framework 
+  
+  - Vantagens 
+  
+ 	Compilação
+ 		- velocidade do programa
+ 		- auxílio do compilador antes da execução
+ 		
+ 	Interpretação
+ 		- flexibilidade de manutenção do aplicativo em produção
+ 		- expressividade da linguagem (é quando se escreve uma solução elegante e complexa em poucas linhas).
+ 		- código fonte não precisa ser recompilado para rodar em plataformas diferentes.
+ 		
+ Java ->  Código fonte - Bytecode - Máquina virtual - SO - Hardware. 
+ ***********************************************************************************************
+  Introdução à liguagem JAVA 
+  
+ O que é Java? 
+ 	* Linguagem de programação (regras sintáticas)
+ 	*Plataforma de desenvolvimento e execução
+ 		-Bibliotecas (API)
+ 		- Ambiente de execução
+ 		
+ Histórico 
+ 	* Problemas resolvidos e motivo de seu sucesso:
+ 		- Ponteiros/ gerenciamento de memória (quais variáveis eram ponteiro e memória e fazer manualmente)
+ 		- Portabilidade falha: reescrever parte do código ao mudar de SO
+ 		- Utilização em dispositivo diversos.
+ 		- Custo
+ 		
+ 		* Criada pela Sun Microsystems no meio da década de 1990
+ 		* Adquirida pela Oracle Corporation em 2010.
+ 		
+ Aspectos notáveis
+ 	* código compilado para bytecode e executado em máquina virtual
+ 	* portável, segura, robusta
+ 	* roda em vários tipos de dispositivos
+ 	* domina o mercado corporativo desde o fim do século 20
+ 	* padrão android por muitos anos 
+ 	
+Edições 
+ 	
+ Java ME - Java Micro Edition - dispositivos embarcados e móveis
+ Java SE - Java Standard Edition - Core - desktop e servidores
+ Java EE - Java Enterprise Edition - aplicações corporativas 
+ 
+ Plataforma Java SE
+ 	* JVM - Java Virtual Machine 
+ 		* Máquina virtual do Java: Necessária para executar sistemas Java. 		
+ 		- Compilação just-in-time (jit) mais rápido que a interpretação
+ 		
+ -----------------------------------------------------------------------------------
+ 
+	Estrutura de uma Aplicação Java
+
+* Java é um liguagem orientada a objetos e a unidade lógica básica de um programa orientado a objetos é a classe.
+
+* Package = agrupamento lógico de classes relacionadas
+	ex: 
+		Entities (class1, class2, etc)
+		Services (pedido, e-mail, log, etc.)
+		Repositories (class1, class2, etc)
+		
+* Módulo (Java9+) = Agrupamento lógico de pacotes relacionados 
+* Runtime = Agrupamento físico 
+	Financial - (Entities, services, repositores.)
+	Graphics - (Graphics3D, Graphics2D, Utilities)
+	
+	
