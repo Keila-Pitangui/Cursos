@@ -1,0 +1,47 @@
+		Física para computação
+		prof. Dr. Kauê Rosalem
+		
+* Unidade 1 
+
+Conteúdo 
+	1. Carga elétrica, força e campo elétrico, além de corrente elétrica
+	2. Óptica, analisando os princípios da Óptica geométrica da refração da luz e dos instrumentos ópticos.
+	
+- Princípios da atração e da repulsão 
+	A matéria é composta por átomos que, por sua vez, podem ser divididos em núcleo e em eletrosfera. O núcleo é composto por prótons e nêutrons, em quantidades que dependem do átomo que estamos tratando, A eletrosfera é a região onde se encontra os elétrons.
+	Quando à carga, os nêutrons não têm carga elétrica: como indica o nome, são partículas de carga neutra. Os prótons têm carga positiva, e os elétrons têm carga negativa. Os elétrons são portadores de carga, e os prótons ficam restritos ao núcleo do átomo. Dessa forma, temos carga efetiva, quando temos o excesso de elétrons, e carga positiva quando temos a falta de elétrons.
+	A matéria é neutra se não apresenta a falta nem o excesso de elétrons.
+	
+- Condutores e Isolantes
+	Em 1729, Stephen Gray estudou a transmissão de carhas em diferentes materiais e observou dois comportamentos distintos: em alguns materias, a carga era facilmente transmitida e, em outros, era retida. Os materiais nos quais a carga era transmitida, foram chamados de condutores e os materias nos quais ela era retida, chamados de isolantes.
+	São exemplos de materiais condutores:
+	- Os metais em geral, como o cobre, por exemplo;
+	- A água contendo ácidos, bases ou sairs;
+	- A terra;
+	- O corpo humanos
+	
+	São exemplos de materiais isolantes:
+	- A borracha
+	- O vidro
+	- A água pura
+	- O ar em condições de baixa umidade
+	
+	Cabos condutores de eletricidade são exemplos de uma combinação de condutores e isolantes, já que têm, em seu interior, material metálico, geralmente, cobre, e são revestidos por um envoltório de PVC ou de borracha. Alguns cabos parecem não ter revestimento aparente, mas são revestidos por um esmalte, que age como isolante.
+	
+- Corpo eletrizado 
+	Para visualizarmos a indução de cargas, podemos fazer uso de um dispositivo chamado de eletroscópio. O eletroscópio é um recipiente  de vidro com uma abertura fechada por umam rolha, que atua como isolante. Essa rolha á atravessada por uma haste de material condutor. Na parte superior da haste externa ao recipiente, há uma esfera metálica; já na parte da haste interna ao frasco, está presa uma folha fina de metal, usualmente de ouro ou de alumínio.
+	
+- Lei de Coulumb 
+	A Lei de Coulumb, enunciada por Charles Augustin Coulumb, em 1784, quantifica a força elétrica entre duas cargas em termos da distância que separa essas cargas.
+	Coulumb verificou que: 
+		- Quanto maior o valor das cargas, maior a força entre elas;
+		- Quanto maior a distância entre as cargas, menor a froça entre elas.A força elétrica F→ entre duas cargas q1 e q2, separadas pela distância d, é dada pela equação.
+		obs: A força eletroestática entre as partículas é dada por uma constante, o produto entre as cargas dividida pela distância ao quadrado. Essa força ocorre em uma linha que une as cargas.
+		Na equação:
+•	 ∈0 é a constante de permissividade elétrica, igual a 8,85.10-12 F/m no vácuo;
+	^r é um versor, ou seja, um vetor de tamanho unitário, com direção da linha que une as cargas.
+	Assim como qualquer outro tipo de força, no sistema internacional, a unidade da força elétrica é o newton, representado por N.
+	A lei de Coulumb calcula a força entre duas cargas. Se tivermos mais de duas cargas deveremos calcular as forças duas a duas e fazer, depois a soma vetorial dessas forças para obtermos a força elétrica "total". 
+	Exemplo: 
+		Considere três cargas idênticas (cargas q = 3.10-5C) dispostas de forma alinhada e separadas pela distância de 1 metro. Qual é a intensidade da froça elétrica na carga da ponta esquerda da configuração?
+		Calculamos a força elétrica entre duas cargas: então, entre a carga da esquerda e a carga do meio, temos a froça de intensidade F1.
