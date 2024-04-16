@@ -45,3 +45,41 @@ Conteúdo
 	Exemplo: 
 		Considere três cargas idênticas (cargas q = 3.10-5C) dispostas de forma alinhada e separadas pela distância de 1 metro. Qual é a intensidade da froça elétrica na carga da ponta esquerda da configuração?
 		Calculamos a força elétrica entre duas cargas: então, entre a carga da esquerda e a carga do meio, temos a froça de intensidade F1.
+		
+- Campo elétrico
+	Campo é uma grandeza que varia conforme a posição no espaço. No caso em estudo, tempo o campo elétrico, que é usualmente representado por E.
+	De modo infromal, podemos dizer que o compo elétrico é uma grandeza associada à carga elétrica que permite que outra carga "saiba" da existẽncia dela à distância.
+	O campo elétrico, assim como a força elétrica, é uma grandeza vetorial. Essas duas grandezas relacionam-se pela seguinte equação:
+	Na equação, "q" é a carga elétrica de uma carga de prova usada com a finalidade de medirmos a força elétrica.
+	A unidade de campo elétrico é Newton por Coulumb (N/C).
+	Note que: 
+		- Se a carga q for positiva, a força elétrica e o campo elétrico têm a mesma direção e o mesmo sentido;
+		- Se a carga q for negativa, a força elétrica e o campo elétrico têm a mesma direção, mas sentidos opostos.
+
+Obs: Além da força elétrica, nós podemos falar também sobre o agente transmissor dessa força, assim como nós temos entre duas massas uma froça "q" que é dita força gravitacional, portanto campo gravitacional. No caso da eletroestática, nós temos forças elétricas e um campo elétrico. Então, o campo elétrico será o agente transmissor dessa força.
+-------------------------------------------------------------------------------------
+- Eletromágentismo
+	é a área da física que estuda os fenômenos relacionados a eletricidade e magnetimos de forma unificada. Ele utiliza como base o conceito de campo eletromagnético, descrevendo a relação entre os dois campos em separados, bem como combinando-os. 
+	O eletromagnétismo se baseia nos princípios de cargas elétricas e variaçao de fluxo magnético. As cargas elétricas em movimento geram campo magnético e a variação de fluxo magnético produz campo elétrico.
+	o campo magnético surge a partir do movimento de carga elétrica, pois ele é resultado da corrente elétrica. Além disso, ele pode resultar de uma força eletromagnetica quando ela se associar a imãs.
+	A variação do fluxo magnético resulta de um campo elétrico através da indução eletromagnética. De forma similar, a variação do campo elétrico causa um campo magnético. Uma vez que há uma relação de dependência mútua entre os campos, fala-se em campo eletromagnético.
+	O movimento relativo entre um observador e cargas elétricas gera um campo magnético.
+	A lei de Lenz enuncia que, quando houver uma variação de fluxo magnético sobre um condutor fechado, surgirá, nesse condutor, um campo magnético que se oporá a tal variação. Essa lei é uma consequência direta de um princípio da física conhecido como conservação da energia e complementa a lei de indução de Faraday.
+-------------------------------------------------------------------------------------
+
+* 1º Lei de Ohm
+	Determina que a diferença de potências entre dois pontos de um resistor é proporcional a corrente elétrica que a estabelece.
+	Além disso, por meio de sua fórmula, percebemos que a resistência elétrica é proporcional a tensão elétrica (ddp ou diferença de potencial elétrico), mas inversamente proporcional a corrente elétrica. Portanto, se aumentarmos a tensão, a resistência também aumentará. Contudo, se aumentarmos a corrente, a resistência diminuirá.
+	
+	- para calcular a  resistência paralela usa-se a fórmula:
+	
+	Req = R1 * R2 sobre R1 + R2
+	
+	- para calcular a resistência em associação com a resistência em paralelo, soma-se Req + R3 
+	
+	Req = Req + R3
+	
+------------------------------------------------------------------------------------
+
+
+	
