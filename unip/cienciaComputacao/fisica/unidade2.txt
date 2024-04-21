@@ -1,0 +1,125 @@
+O olho como instrumento óptico
+
+	A luz incide no olho da esquerda para a diretira, atiginfo o polo anterior do olho, onde se encontra a córnea. A parte anterior do olho tem um formato curvo, é transparente e atua, junto com a lente do cristalino, para focar os raios de luz na parte traseira do olho. Essa luz incide na retina, onde se forma a imagem, e é interpretada como sinais ellétricos. Tais sinais elétricos são transportados para o cérebro, que nos passa a percepção da imagem.
+	O oljo atua como um instrumento óptico, de froma que apresenta a capacidade de resolução limitada, O limite de resolução de um instrumento óptico é a capacidade de separar dois objetos pontuais adjacentes.
+	Quando a luz papssa por uma abertura circular, semelhante à pupila do olho, a imagem é formada sobre m padrão de difração(iremos tratar de difração mais adiante), chamado de difração de Fraunhofer para a abertura circular. O máximo central do padrão de Fraunhofer é chamado de disco de Airy.
+	
+* Princípios da Òptica Geométrica
+
+	Òptica Geométrica é um ramo da Física que estuda a forma de propagação da luz; a sua idealização é anterior ao conhecimento de que a luz é uma onda eletromagnética. 
+	Na Òptica Geométrica, a luz pode ser representada por frentes de onda ou por raios de luz, confrome a conveniência. As frentes de onda podem ser exemplificadas pelo padrão que se forma ao atirarmos uma pedra em uma superfície de água parada; já o raio de luz pode ser entendido como um laser.
+	Quando o comprimento de onda de luz é muito inferior às dimensões do sistema onde a luz se propaga e dos corpos com os quais ela interage, são válida três leis da Ópticas Geométrica:
+	- Lei da propagação retílinea;
+	- Lei da reflexão;
+	- Lei da Refração;
+	
+	* A lei da propagação retílinea diz que os rais de luz se propragam em linha reta em um meio homogêneo.
+	* A lei de reflexão diz que, em uma superfície que separa dois meiso distintos, ocorre a reflexão parcial da luz. 
+	* A lei da refração diz que o raio é fratado quando atravessa a interface de dois meios distintos.
+	
+* Reflexão
+	
+	A lei da reflexão diz que, quando a luz atinge a interface entre dois meios, ela é parcialmente refletida. o plano de incidência é o plano definido pelo raio de luz e pela normal ao plano, e a radiação refletida está restrita a esse plano. 
+	Se o raio incide com angulo 0i, em relação à normal à superfície, o raio refletido terá ângulo 0r em relação à normal à superfìcie, tal que:
+		
+		0°incidência = 0°reflexão
+	
+	Logo, o ângulo de incidência do raio de luz é igual ao ângulo de reflexão.
+	
+* Espelhos Planos
+	
+	Espelhos planos são o tipo de espelho mais frequentemente encontrados em nosso dia a dia, cuja principal propriedade é formar uma imagem de dimensões idẽnticas às dimensões do objeto original. Para analisar esse fenômeno, vamos usar P para representar um ponto do objeto original e P' para representar o mesmo ponto de sua imagem. 
+	Apresentamos, o exemplo de formação de uma imagem por um espelho plano. A imagem formada no espelho também é conhecida como imagem virtual.
+	Para obter imagens ampliadas, podemos trabalhar como espelhos de geometrias diferentes, como os espelhos de superfície curva. 
+	O campo visual de uma espelho plano é toda a área que poe ser vista por um observador a partir da imagem refletida por esses espelho.
+	O campo visual pode ser obtidos aplicando as leis de reflexão aos raios que atigem às bordas dos espelhos, ou seja, os limites de sua área.
+	A representação do limite do campo visual de um espelho plano para um observador.
+	Conforme o ângulo de incidência da luz, a opacidade das superfícies e os índices de refração delas, a radiação pode ser apena srefletida, o que chamamos de reflexão total. Veremos o cálculo desses parâmetros mais adiante.
+	Quando a luz passa de um meio para outro, ela pode sofrer um fenômeno chamado de refração. Na refração, a direção de propragação da luz se altera ao ingressar no novo meio, embora a propagação dos raios de luz continue sempre de forma retilínea. O que faz com que a direçao de propagação da luz se altere, de modo mais ou menos intenso, é o índice de refração dos meios em que ela atravessa.
+	
+* Índice de refração
+
+	O índice de refração é uma propriedade do meio onde a luz se propraga: é esse índice que vai causar maior ou menor refração da luz. O índice de refração é frequentemente representado por "n" e é uma grandeza adimnesional, ou seja, não tem uma unidade associada.
+	Ìndice de refraçção para alguns materiais, à temperatura 20 °C, para a radiação de comprimento de onde de 589 nm no vácuo.
+	
+	Substância 				Ìndice de refração
+	Ar ( T=0 °C e P = 1 atm)			1,000
+	Água 						1,333
+	Álcool etílico					1,361
+	Benzeno						1,501
+	Diamante					2,419
+	
+* Velocidade de propagação em um meio 
+
+	A velocidade de propagação da luz no vácuo, representada por c, é uma constante da Física e é igual a c = 3.10 8 m/s.
+	O índice de refração n é calculado a partir da relação entre a velocidade de propagação da luz no vácuo, representada, como dissemos, por c, e a velocidade da propagação em um meio, representda por v. Equaconando, temos:
+	
+	n = c/v
+	
+	Exemplo: podemos determinar a velocidade de propagação da luz no diamnate usando a equação que ralaciona a velocidade de propagação da luz c com o índice de fefração n do meio de propagação:
+	Substituindo a velocidade da luz c por 3.10 8 m/s e o índice de refração para o diamante n por 2,4919: 
+	
+	n = c/v  2,419 = 3 .10 8 / v
+			v = 3 .10 8 / 2,419
+			v = 1, 24 . 10 8 m/s
+			
+	Vemos que a velocidade de propagação da luz no diamante é 1,24 10 8 m/s, ou seja, 41% da velocidade da luz no vácuo.
+	Vimos que, quando a luz passa de um material para outro, sua velocidade muda, mas será que outras propriedades da luz são alteradas?
+	Quando tratamos a luz como uma onda, analisamos outro parâmetro, o comprimento de onde, simbolizado pela letra grega lambda, relacionado com o que nosso olho interpreta como cor. A luz pode ser monocromática, qundo tem apenas um comprimento de onda ou, apenas, uma cor, ou luz branca, composta por diversos comprimentos de onda. 
+	O índice de refração pode alterar não apenas a velocidade de propagação da luz, mas também o seu comprimento de onda, ou seja, a sua cor. A relação entre o índice de refração n, do meio, e o comprimento de onda Lambda, da radiação, é dada por:
+	Na equação:
+		- a  λ  é o comprimento de onda da luz no vácuo;
+		- e  λn elevada a n é o comprimento de onda da luz no meio em questão.
+		
+		n =  λ  /  λn
+		
+		Exemplo: 
+		Considerando uma radiação de comprimento de onda  λ  igual a 589 nm no vácuo, qual será o comprimento de onda dessa radiação se ela se propagar em diamante?
+		Começamos com a expressão que relaciona o índice de refração n com o comprimento de onda  λ:
+		Substituímos, na igualdade anterior, o índice de refraçção do diamante, n = 2,419 e o comprimento de onda da radiação no vácuo,  λ  = 589 nm.
+		
+		
+		n  =  λ /  λn		2,419 = 589/ λn
+						 λn = 589 / 2,419
+						  λn = 243,5nm
+						  
+		Vemos que a luz com o comprimento de onda de 589 nm no vácuo, quando passar a se propagar no diamante, tem o seu comprimento de onda alterado para 243,5nm, que o representa uma mudança de cor, de amarela para a cor ultravioleta, que está fora do espectro de radiação visível.
+		
+- Lei de Snell-Descartes
+
+	Falamos que a direção de propagação da luz se altera quando ela passa de um meio para o outro, com índices de refração diferentes, embora mantenha a sua propagação linear em cada meio. Esse desvio é quantificado pela Lei de Snell-Descartes.
+	Considere uma radiação cujo raio de luz se propaga com o ângulo  θ ¹, em um meio cujo índice de refração é n¹, que atravessa para um meio de índice de refração n² e passa a se propagar com o ângulo  θ ². Os ângulos são medidos em relação à normlal da interface entre os dois meios. 
+	A Lei de Snell-Descartes fornece a seguinte fornece a seguinte igualdade n¹ * sen( θ ¹) = n² * sen ( θ ²).
+	Temos um esquema da difração da luz ao atravessar a interface de dois meios de índice de refração distintos. 
+	
+	- Questão 1
+	
+	Considere um feixe de luz monocromática, de comprimento de 589nm que se propaga no ar. O feixe incide com ângulo de 20º em relação à normal da face de um objeto de vidro (tipo Flint, onde n² = 1,66). Qual é o ângulo de refração dessa radiação no vidro?
+a) 11,9º			
+b) 15,8º		n¹ * sen( θ ¹) = n² * sen ( θ ²)
+c) 35,2º		1 * sen 20º = 1,66 * sen θ ²
+d) 45,0º		1 * 0,342 = 1,66 * sen θ²
+e) 92,3º		sen θ² = 0,342/1,66
+			sen θ² = 0,206
+			θ² = arcsen(0,206)
+			θ² = 11,9º
+			
+	Para o vidro Flint, n² = 1,66 e o índice de refração para o ar é n¹ = 1,000. Substituímos, na Lei de Snell-Descartes , os dados de índice de refração e do ângulo θ¹, tomando cuidado para manter cada meio em cada lado da equação.
+	 
+* Ondas
+
+	Definimos a frequência f como a quantidade de oscilações ocorridas por unidade de tempo. Usamos o Hetz(Hz) como a unidade de frequência no sistema Internacional de Unidades (SI). O período e a frequência relacionam-se pela seguinte equação:
+	
+	f = 1 / T
+	
+	Outra quantidade relevante quando estudamos ondas é a amplitude A, que, no caso de oscilações harmônicas, é a distância entre a linha média e um ponto de máximo da onda, ou entre a linha média e um ponto de mínimo da onda. Como a amplitude é uma distância, ela é medida em metros (m) no SI.
+	
+	Exemplo: um exemplo de ondas aplicadas à eletricidade é o caso da tensão alternada que temos em instalações elétricas, que, no Brasil, opera com frequência de 60 Hz, ou seja, com 60 oscilações completas a cada segundo.
+	Podemos determinar o período da tensão da rede de fornecimento de energia por:
+	
+	T = 1 / f
+	T = 1 / 60
+	T = 0,017s
+	
+	Então, o período da tensão na rede de energia é 0,017s o que significa que o sinal de tensãi vai oscilarr de forma a ter um máximo a cada 0,017s (ou um mínimo nesse mesmo intervalo de tempo).
+	
