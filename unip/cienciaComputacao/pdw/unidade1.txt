@@ -1,0 +1,26 @@
+Programação a dispositivos móveis
+	
+	- Utilizar o MIT APP Inventor 2
+	
+História do App Inventor 
+
+	2008:
+	- Google Android: Mark Friedman
+	- MIT (Massachusetts Institute os Tecnology): Hal Abelson
+	- Pedagogicamente, o App Inventor segue uma escola que começou com o trabalho de Seymour Papert e do MIT Logo Group;
+	- Scratch ispira o App Inventor, que é o ponto de partida para o 
+Google Blockly
+	
+	2013:
+	App Inventor 2
+	
+1. baixar um emulador 
+
+- Comportamento 
+
+	* Relação entre os componentes, as suas caracterśticas e a sua relação com o comportamento.
+	
+	componente -> viśiveis : Propriedades - Texto, largura, altura, fundo
+		|
+	não visíveis : Manipulador de eventos bateu, Refresh time.
+					
