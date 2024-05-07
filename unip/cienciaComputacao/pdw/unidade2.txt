@@ -1,0 +1,75 @@
+Unidade 2
+
+1 - Projeto 
+	
+	* Desenvolver um aplicativo que realiza a tradução de textos do português para outros idiomas selecionados.
+	
+	* Habilitar o reconhecimento de voz de seu dispositivo para informar o texto a ser traduzido pelo app.
+	
+	* Opção de ouvir o texto que foi traduzido.
+	
+ Técnicas - API
+ 
+ 	API (Application Programming Interface) Interface de Programação de Aplicação.
+ 	
+ 	* API é uma ferramenta que realiza a comunicação entre aplicações e sistemas operacionais, e outros serviços que desejam compartilhar sua rotinas, ferramentas, padrões e protocolos.
+ 	
+ 	*  Esta interface é o conjunto de padrões de programaçõa qie permite a construção de aplicativos e a sua utilização de maneira não tão evidente para os usuários, portanto, é uma interface software-to-software, isso quer dizer que o usuário não vẽ o processo de pedido ou de resposta. Tudo o que o usuário vê é uma integração entre os sistemas diferentes, de modo que ele consegue realizar várias ações em um único lugar.
+ 	
+ 	Exemplo: utilizarr a API para obter a informação de um CEP
+ 	
+ 		* https://viacep.com.br/*cep*/json/
+ 		* https://viacep.com.br/ws/01001000/json/
+ 		
+ Componente 	- API - Tradutor Yandex
+ 	* A API fornece acesso ao serviço de tradução automática on-line Yandex.
+ 	* Suporta mais de 90 idiomas e pode traduzir palavras separadas ou textos completos.
+ 	* A API possibilita incorporar o Yandex. Translate em um aplicativo móvel ou serviço da web para os usuários finais.
+ 	
+ Componente - API - Texto e fala
+ 
+ 	- TextoParaFalar
+ 	* utiliza como API o aplicativo Google Text-to-Speech, que é um leitor de tela desenvolvido para o sistema operacional Android.
+ 	
+ 	- Reconhecedor de voz
+ 	* Envia áudio e recebe uma transcrição de texto do serviço da Speech-to-Text API;
+ 		* Utiliza o Cloud Speech-to-Text que faz a conversão de voz em texto com a tecnologia de machina learning, disponível para áudios de curta e longa duração.
+ 		
+ Componente - EscolheLista
+ 	* O componente "botão" que, ao ser clicado, mostra uma lista de textos para o usuário escolher em uma tela inteira.
+ 	* O item selecionado retorna como um valor nemérico à linha escolhida, ou um texto com a cadeia do elemento escolhido.
+ 	
+ 	
+ 2 - Projeto
+ 
+ 	O objetivo central é aprender a utilizar o dispositivo móvel para o geoprocessamento.
+ 	- Fixar localização
+ 	- Mostrar local do carro
+ 	- Mostrar local atual
+ 	- Retornar ao carro
+ 	
+ GPS - Sistema de posicionamento global
+ 
+ 	* GPS (em inglês, global posistion system) é uma tecnologia de poscionamento por satélites geoestacionários que fornece referência de localização.
+ 	* A correta localização acontece se os sinais de, pelo menos, três satélites estiverem disponíveis no dispositivo.
+ 	* Uma maior precisão está associada a visibilidade de um número maior de satélites, normamente entre sete e nove.
+ 	
+ Componente - API Google Maps e o iniciador de atividades
+ 	* O Google maps oferece um serviço onde retorna a rota entre dois pontos.
+ 	- https://maps.google.com./maps?saddr=Latitude1,Longitude1&daddr=Latitude2,Longitude2
+ 	
+ 	Ao digitar no endereço do navegador:
+ 	- https://maps.google.com./maps?saddr=-23,6407332,-46,5925173&daddr=-23,5727196,-46.6397953
+ 	
+ 	* o APP Inventor não possui um bloco específico com um resultado como o desejado.
+ 	* O inicializador de atividades permite um aplicativo abrir outros aplicativos em tempo de execução.
+ 	* Este bloco é para usuários avançados, mas o site:
+ 	https://appinventor.mit.edu/explore/ai2/activity-stater.html tem os comandos para diversos usos, como: acessar o Youtube, câmeras.
+ 	
+ Aplicativo - TinyDB
+ 
+	* TinyDB permite um armazenamento persistente de dados do app. Os dados armazenados continuarão gurdados mesmo depois que o app é fechado.
+	* Itens de dados são cadeias de texto armazenadas sob rótulos.
+	* Para armazenar um item de dados, você especififca o seu rótulo para o armazenamento.
+	* Para recuperar os dados que são armazenados com um determinado rótulo. 	
+ 	
