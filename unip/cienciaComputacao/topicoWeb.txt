@@ -1,0 +1,69 @@
+Tópicos Web
+
+Unidade 1
+
+- Rede de computadores
+- Histórico da internet
+- Infraestrutura da internet
+- Evolução da web
+- Negócios eletrônicos
+- Comércio eletrônico
+
+Redes de computadores a princípio nasce da necessidade de fazer com que um computador conecte em outro. Elas representam um conjunto de componentes capazes de favorecer a troca de informações e o compartilhamento de recursos computacionais, interligados por um sistema de comunicação.
+
+O seu objetivo principal é propiciar o tráfego de dados entre um computador situado na origem e outro no destino, por meio de ferramentas de hardware e software, e utilizando um conjunto de regras (protocolos).
+
+O que é internet?
+	* Trata-se de um sistema que conecta os computadores do mundo todo por meio de redes interligadas.
+	* É a rede que interconecta os computadores do planeta.
+	* OBS: o termo World Wide Web (WWW) pode ser traduzido como "teia mundial", ou seja, é o caminho que possibilita que usufruamos dos conteúdos transferidos pela internet.
+	
+- Antes do surgimento da internet 
+
+	* Lançamento do primeiro satélite, Sputnik l, em 1957, pela URSS
+	* Criação da Advanced Research Projects Agency (ARPA), em 1958, pelo EUA.
+	* A missão da ARPA era favorecer a pesquisa no ambiente universitário e alcançar a superioridade tecnológica militar ante a União soviética que, por causa do seu programa espacial, tinha se tornado uma ameaça a segurança nacional norte-americana.
+	* Em 1967, Lawrence Roberts, do MIT, publicou um plano geral para o chamado Advanced Research Projects Agency network (ARPANET), a primeiro rede de computadores por comutação de pacotes e uma das percursoras da internet atual.
+	* Em 1969, foi instalado o primeiro comutador de pacotes na Universidade da Colifórnia, em Los Angeles (UCLA)
+	* Logo depois, outros três comutadores adicionais foram instalador em Stanford Research Institute (SRI), na Universidade de Utah e na Universidade da Califórnia, em Santa Bárbara.
+	
+	Novo momento da ARPANET
+	
+	* Em 1975, a responsabilidade pelo projeto ARPANET foi assumida pela Agência de Comunicação para Defesa, ou Defense Communication Agency (DCA).
+	* Em 1978, pesquisadores na Universidade de Califŕnia do Sul acrescentaram um protocolo intrarrede (IP) ao TCP, o que gerou o protocolo TCP/IP, padrão adotado na internet até hoje.
+	* A rede ARPANET, no entanto, continuou a operar por algum tempo com um protocolo diferente, o NCP.
+	* Em 1983, o Departamento de Defesa dos Estados Unidos criou a MILNET, uma rede independente para usos militares específicos. A rede do ARPANET foi renomeada: passou a ser chamada de ARPA-INTERNET e foi destinada à pesquisa nas universidades.
+	
+	ARPANET E NSFNET (processo evolutivo da internet)
+	
+	* Em 1984, a Fundação Nacional da Ciência, ou Nationl Science Foundation (NSF), uma agência governamental americana que visa a promover a pesquisa e a educação, montou a sua própria rede de comunicação entre os computadores denominada como NSFNET.
+	
+	* Em 1988, a NSF começou a usar a estrutura da ARPA-INTERNET como a espinha dorsal (backbone), termo que identifica a rede principal pela qual os dados de todos os usuários da internet passam. 
+	
+	* Em 1990, a rede ARPANET foi retirada de operação, pois a sua tecnologia estava obsoleta, com os circuitos de capacidade igual a 56 kbps.
+	
+	Estabelecimento da Internet 
+	
+	* com a desativação da ARPANET, o governo dos Estados Unidos passou a administração da internet para a NSF, o que desvinculou das redes de militares.
+	
+	* em 1990, muitos computadores nos EUA dispunham de placas de redes global de redes de computadores.
+	
+	* tudo isso, proporcionou a rápida expansão da internet e a formação da rede global de redes de computadores.
+	
+	*Na década de 1990, a internet já estava privatizada e empregava uma arquitetura técnica aberta e formada por protocolos padronizados (características oriunda da ARPANET).
+	
+	* esses protocolos possibilitavam a interconexão de todas as redes de computadores de quaisquer lugares do mundo.
+	
+	* A web poderia funcionar como um software adequado e havia diversos navegadores que estavam à disposição do público, com diferentes graus de facilidade de navegação.
+	
+	Cronologia da internet
+	
+	* Início da década de 1960: a ideia da internet começou a tomar forma nas concepções dos cientistas da computação.
+	
+	* final da década de 1960: constituição de uma rede de comunicações por meio de computadores.
+	
+	* década de 1970: formação de comunidades dispersas de computação reunnindo cientistas da computação.
+	
+	* década de 1990: presenciamos o marco do nascimento da interner para os empresários e para a sociedade em geral.
+	
+	

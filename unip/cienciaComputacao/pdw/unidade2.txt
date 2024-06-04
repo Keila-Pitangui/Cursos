@@ -68,8 +68,31 @@ Unidade 2
  	
  Aplicativo - TinyDB
  
-	* TinyDB permite um armazenamento persistente de dados do app. Os dados armazenados continuarão gurdados mesmo depois que o app é fechado.
+	* TinyDB permite um armazenamento persistente de dados do app. Os dados armazenados continuarão guardados mesmo depois que o app é fechado.
 	* Itens de dados são cadeias de texto armazenadas sob rótulos.
 	* Para armazenar um item de dados, você especififca o seu rótulo para o armazenamento.
-	* Para recuperar os dados que são armazenados com um determinado rótulo. 	
+	* Para recuperar os dados que são armazenados com um determinado rótulo.
+	
+Projeto 3 - Jogo da Bola
+
+Animações 
+	Montagem de um jogo animado:
+		- Tela de Pintura 
+		- Bola
+		- Spriteimagem
+		- Temporizador
+		
+ Bola:
+ 	- Definindo o centro da tela
+ 	- Pintura.Largura, centro de tela Pintura.Largura / 2;
+ 	- cada borda recebe uma numeração
+ 	
+ 	Evento Bola/Sprintelmagem.AlcançouBorda
+ 		- é ativado ao tocar uma borda e retorna em qual borda tocou.
+ 	
+ 	Quicar:
+ 		- Altera a direção, refletindo conforme o ângulo de incidência na borda quicada.
+ 		
+ 	
+ 	
  	
