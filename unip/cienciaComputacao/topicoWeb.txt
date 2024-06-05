@@ -66,4 +66,38 @@ O que é internet?
 	
 	* década de 1990: presenciamos o marco do nascimento da interner para os empresários e para a sociedade em geral.
 	
+	Fatos adicionais que influenciaram o desenvolvimento da internet
 	
+	* Na década de 1970, Ward Christensen e Randy Suess, estudantes da Universidade de Chicago, escreveram um programa de transferência de arquivos entres os seus computadores pessoais (MODEM era o nome do programa) e também elaboraram outro software, denominado Bulletin Board System (BBS), que permitiu que os computadores armazenassem a transmitissem mensagens.
+	
+	* Na decada de 1980, entra em operaçaõ a BITNET, uma rede para os usuários de IBM que ligava as Universidades de Cidade de New york e de Yale, e visava a agilizar a comunicação realizada no meio acadêmico.  Mas tarde, a BITNET englobou muitas universidades de vários lugares do mundo, oferecendo os serviços de transferência de arquivos entre os computadores e de correio eletrônico.
+	
+	* Ainda na década de 1980, surge a Usenet News, uma rede que possibilitou a comunicação de computadores (que utilizavam o UNIX) que não faziam parte da rede do ARPANET. Mais tarde, o vínculo entre a Usenet e a ARPANET ocorre na Universidade da Califórnia ( um dos nós da ARPANET).
+	
+	Navegadores de internet
+	
+	* Um navegador de internet (ou browser) é um programa que possibilita o nosso acesso aos sites ou links, visto que é ele quem faz a comunicação com os servidores, e processsa os dados e as informações.
+	
+	Histórico dos navegadores de internet
+	
+	* Década de 1960: o filósofo norte-americano Theodor Nelson lança o projeto Xanadu, que visava a criar uma rede de computadores com interfaces simplificadas. Esse projeto implementaria um sistema com hipertexto abertoe autoevolutivo, que vincularia toda a informação do passado, do presente e do futuro.
+	
+	* Década de 1990: Tim Berners-Lee, físico britânico e professor do MIT, foi responsável pelo desenvolvimento do programa chamado de enquire, software que possibilitava o recebimento e a inclusão de informações entre os computadores conectados pela internet.
+	
+	* Década de 1990, Robert Cailliau e Tim Berners-Lee desenvolvem um sistema de hipertexo conhecido como www (world wide web), a rede mundial.
+	
+	* Vários desenvolvedores implantaram as suas próprias bersões de navegadores, com base no que foi feito por Tim Berners-Lee. A primeiro desses versões da www, chamada de Erwise, foi desenvolvida no Instituto de Tecnologia de Helsinki, Finlândia, em 1992.
+	
+	Moisac 
+	
+	Ele foi lançado em 1993, por meio de interface amigável, e uma elevadaa capacidade gráfica de captar e distribuir imagens pela internet (para os padrões da época).
+	
+	Era moderna dos navegadores
+	
+	* Em 1994, a Netscape Communications, oriunda da Mosaic Communications, disponibilizou o Netscape Navigatior, reconhecido como o primeiro navegador comercial, tomado gratuito se destinado a fins educacionais, mas mantendo o custto de cerca de 40 dólares se destinado a fins comerciais.
+	
+	* 1995, a Microsoft lançou, juntamente como o sistema operacional Windows 95, o seu próprio navegador, chamado de Internet Explorer.
+	
+	* Ainda em 1995, surge o Java , uma linguagem de programação que possibilita que diferentes computadores, como diferentes arquiteturas e diferentes sistemas operacionais, rodem os mesmos programas "baixados" da internet, e disponibilizou esse software do modo gratuito.
+	
+	* A Netscape inseriu a linguagem Java no Navigatir e, em 1998, liberou o código-fonte do navegador.
